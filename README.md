@@ -1,1 +1,1 @@
-# txt-game-russian-version
+# Текстовая игра на русском.
